@@ -1,0 +1,45 @@
+{
+  "colorPalette": "rose-pink",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260828-130418-x53f",
+      "title": "Seth Jammer",
+      "commanders": [
+        "Seth Jammer"
+      ],
+      "guild": {
+        "id": "788A5115-7B02-EC11-81B2-A840610878B3",
+        "name": "Knights Of The Silver Challice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-08-28T18:04:18.000Z",
+      "dateEnd": "2026-08-28T19:56:02.379Z",
+      "dateLabel": "8/28/2026, 1:04:18 PM - 8/28/2026, 2:56:02 PM",
+      "url": "https://Scarmac2.github.io/wvw-knights-of-the-silver_chalice/?report=20260828-130418-x53f",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 3
+      }
+    }
+  ]
+}
