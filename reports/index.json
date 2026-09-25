@@ -2,7 +2,46 @@
   "colorPalette": "rose-pink",
   "glassSurfaces": false,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260925-130333-08xi",
+      "title": "Seth Jammer",
+      "commanders": [
+        "Seth Jammer"
+      ],
+      "guild": {
+        "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
+        "name": "K S C Legionaires",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-09-25T18:03:33.000Z",
+      "dateEnd": "2026-09-25T19:56:53.707Z",
+      "dateLabel": "9/25/2026, 1:03:33 PM - 9/25/2026, 2:56:53 PM",
+      "url": "https://Scarmac2.github.io/wvw-knights-of-the-silver_chalice/?report=20260925-130333-08xi",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 2
+      }
+    },
     {
       "id": "20260828-130418-x53f",
       "title": "Seth Jammer",
