@@ -5,6 +5,44 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-164247-592a",
+      "title": "Valen Sun",
+      "commanders": [
+        "Valen Sun"
+      ],
+      "guild": {
+        "id": "788A5115-7B02-EC11-81B2-A840610878B3",
+        "name": "Knights Of The Silver Challice",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-09-27T21:42:47.000Z",
+      "dateEnd": "2026-09-27T23:01:58.125Z",
+      "dateLabel": "9/27/2026, 4:42:47 PM - 9/27/2026, 6:01:58 PM",
+      "url": "https://Scarmac2.github.io/wvw-knights-of-the-silver_chalice/?report=20260927-164247-592a",
+      "summary": {
+        "borderlandsPct": 0.8,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260925-130333-08xi",
       "title": "Seth Jammer",
       "commanders": [
