@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261106-134324-3zmp",
+      "title": "Cole Eris",
+      "commanders": [
+        "Cole Eris"
+      ],
+      "guild": {
+        "id": "D15047FD-2FA8-EF11-81AB-F50023EE1BF3",
+        "name": "K S C Legionaires",
+        "tag": "KSC"
+      },
+      "dateStart": "2026-11-06T19:43:24.000Z",
+      "dateEnd": "2026-11-06T20:39:23.107Z",
+      "dateLabel": "11/6/2026, 1:43:24 PM - 11/6/2026, 2:39:23 PM",
+      "url": "https://scarmac2.github.io/wvw-knights-of-the-silver_chalice/?report=20261106-134324-3zmp",
+      "publishedBy": "Scarmac2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 2
+      }
+    },
+    {
       "id": "20261105-131633-8i35",
       "title": "Vodral",
       "commanders": [
